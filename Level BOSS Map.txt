@@ -1,0 +1,66 @@
+//type, x, y
+//player, 200, 0
+boss, 800, 300, 200, 80
+
+//just a small platform against the wall
+//might be used to avoid boss attacks
+block, 200, 500
+
+
+
+block, 150, 200
+block, 150, 250
+block, 150, 300
+block, 150, 350
+block, 150, 400
+block, 150, 450
+block, 150, 500
+block, 150, 550
+block, 150, 600
+block, 150, 650
+block, 150, 700
+block, 200, 700
+block, 250, 700
+block, 300, 700
+block, 350, 700
+block, 400, 700
+block, 450, 700
+block, 500, 700
+block, 550, 700
+block, 600, 700
+block, 650, 700
+block, 700, 700
+block, 750, 700
+block, 800, 700
+block, 850, 700
+block, 900, 700
+block, 950, 700
+block, 1000, 700
+block, 1050, 700
+block, 1100, 700
+block, 1150, 700
+block, 1200, 700
+block, 1250, 700
+block, 1300, 700
+block, 1300, 200
+block, 1300, 250
+block, 1300, 300
+block, 1300, 350
+block, 1300, 400
+block, 1300, 450
+block, 1300, 500
+block, 1300, 550
+block, 1300, 600
+block, 1300, 650
+
+//add a special block in the wall to destroy
+//hide invuneralbility item behind that spot
+block, 50, 500
+block, 100, 500
+block, 100, 600
+block, 50, 600
+block, 50, 550
+
+
+
+

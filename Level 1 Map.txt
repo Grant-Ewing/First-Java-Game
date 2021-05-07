@@ -1,0 +1,49 @@
+//type, x, y, w, h
+block, 100, 700
+block, 100, 300
+exit, 100, 235
+block, 750, 700
+block, 800, 700
+block, 850, 700
+
+//enemy, 600, 500, 50, 50
+small, 600, 500, 50, 50
+
+//small enemy test platform
+block, 550, 550
+block, 550, 500
+block, 600, 550
+block, 650, 550
+block, 700, 550
+block, 750, 550
+block, 750, 500
+
+//long floor 2
+block, 800, 700
+block, 850, 700
+block, 900, 700
+block, 950, 700
+block, 1000, 700
+block, 1050, 700
+block, 1100, 700
+block, 1150, 700
+block, 1200, 700
+block, 1250, 700
+block, 1250, 650
+block, 1300, 700
+block, 1350, 700
+block, 1400, 700
+block, 1450, 700
+block, 1500, 700
+block, 1550, 700
+block, 1600, 700
+block, 1650, 700
+block, 1700, 700
+block, 1700, 650
+
+
+block, 200, 100
+player, 200, 00
+
+
+andro, 1400, 650, 31, 50
